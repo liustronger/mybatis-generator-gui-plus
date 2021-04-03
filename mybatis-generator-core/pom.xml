@@ -24,7 +24,7 @@
   <parent>
     <groupId>org.mybatis.generator</groupId>
     <artifactId>mybatis-generator</artifactId>
-    <version>1.4.0</version>
+    <version>1.4.0-extend</version>
   </parent>
 
   <artifactId>mybatis-generator-core</artifactId>
